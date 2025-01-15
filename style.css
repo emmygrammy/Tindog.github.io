@@ -1,0 +1,147 @@
+
+body{font-family: "Montserrat", sans-serif;
+
+}
+
+
+h1{
+    font-family: "Montserrat", sans-serif;
+    font-size: 3rem;
+    line-height: 1.5
+    
+}
+
+h2{
+    font-size: 1.5rem;
+    width: 80%;
+    padding-left: 200px;
+    line-height: 1.5;
+   
+}
+
+h3{
+    font-weight: 800;
+    padding-top: 10px;
+    font-family: "Ubuntu", sans-serif;
+    font-size: 1.5rem;
+}
+
+p{
+    color: gray;
+    
+}
+
+/**************** navigation bar ************** */
+.navbar-brand{
+    font-family: "Ubuntu", sans-serif;
+    font-size: 2.5rem;
+   
+}
+.nav-item{
+    padding: 0 20px;
+}
+
+.navbar-toggler{
+    border: 2px solid #fff;
+    
+}
+.navbar-toggler-icon{
+    color: #fff;
+    border: 2px solid #fff;
+}
+
+/*************first container***********/
+
+.container-fluid{
+    padding: 0px 100px ;
+}
+
+
+/* fluid container */
+.f-c{
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+#img-a{
+    rotate: 20deg
+}
+
+/*************second container***********/
+.fc-2{
+    background-color: aliceblue;
+ padding-top: 60px;
+}
+
+.icon{
+    color: #ef8172
+}
+.icon:hover{
+    color: #ff4c68;
+}
+ 
+/************* testimonial section (ts)*/
+.ts{
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+    padding-top: 20px;
+    font-family: "Ubuntu", sans-serif bold;
+    font-weight: 800;
+}
+
+#name{
+    color: darkcyan;
+    font-style: italic;
+}
+
+.testimonial-img{
+border-radius: 100%;
+width:200px;
+}
+.companies-logo{
+    border-radius: 100%;
+width:200px;
+margin: 5px 50px;
+
+}
+
+/* companies that patronize us ( still in testimonial setion) */
+.cl{
+    background-color: whitesmoke;
+    padding-top: 20px;
+
+
+}
+  
+/* PRICE BUTTON */
+.pb{
+    background-color: #ff4c68;
+    border: 2px solid  ;
+}
+
+/* second to last container */
+.s2l{
+    background-color: #ff4c68;
+    color: white;
+    padding: 50px;
+}
+
+.footer{
+    background-color: aliceblue;
+}
+
+/* footericon */
+.f-icon{
+    color: #ef8172;
+    margin: 30px;
+}
+.f-icon:hover{
+    color: #ff4c68;
+}
+
+
+
+font-family: "Ubuntu", sans-serif;
+  font-weight: 700;
+  font-style: normal;
